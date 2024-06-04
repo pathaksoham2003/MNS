@@ -1,0 +1,6 @@
+Author: 吹牛儿
+Email: 2863678687@qq.com
+QQGroup: 832860549
+Function: 控制流混淆
+Version: 3.0.61
+ProtectTime: 2024-05-24 11:47
